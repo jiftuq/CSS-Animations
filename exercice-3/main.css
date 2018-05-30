@@ -1,0 +1,19 @@
+ .global {
+    display: grid;
+    grid-template-columns: 205px auto;
+     
+    width: 490px;
+    height: 265px;
+    border: 1px solid black;
+    font-style: italic;
+}
+.twothird{
+ text-align: left;
+ height: 150px;
+ margin-top: 25px;
+ padding-left: 10px;
+}
+.bold {
+    font-family: sans-serif ;
+}
+
