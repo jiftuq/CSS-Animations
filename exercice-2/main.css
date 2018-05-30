@@ -1,0 +1,22 @@
+.main {
+    background-color: dodgerblue;
+    width: 282px;
+    height: 516px;
+    margin: 5px;
+    padding: 10px;
+    color: white;
+    
+}
+.first {
+    font-family: monospace;
+    margin-bottom: 20px;
+}
+.sec {
+    font-size: 60px;
+    margin-bottom: 40px;
+}
+.third {
+    
+    border: 1rem solid white;
+
+}
