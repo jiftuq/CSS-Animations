@@ -1,4 +1,19 @@
 div.container {
     display: grid;
-    grid-auto-columns: auto;
+    grid-template-columns: 278px 278px 278px 278px;
+    width: 100px;
+}
+ul.img {
+    width: 278px;
+}
+li.title{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: larger;
+    color: aqua;
+    margin-bottom: 15px;
+
+
+}
+.li {
+    font-family: 'Times New Roman', Times, serif;
 }
